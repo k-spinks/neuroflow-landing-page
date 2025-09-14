@@ -21,7 +21,7 @@ const CallToAction = () => {
               Discover what your customers really feel and keep them coming
               back. NeuroFlow AI makes it simple.
             </Paragraph>
-            <div className="mx-auto max-w-md sm:max-w-xl pt-10 dark:text-white">
+            <div className="mx-auto max-w-md sm:max-w-xl pt-10 text-white">
               <Button> Request a demo</Button>
             </div>
           </div>
