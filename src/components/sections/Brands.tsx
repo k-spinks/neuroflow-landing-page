@@ -18,10 +18,10 @@ const Brands = () => {
               className="p-4 sm:p-5 rounded-xl bg-body border border-box-border group"
             >
               <img
-                src={`../../../public/assets/logos/${logo}.png`}
-                alt={logo}
+                src={`/assets/logos/${logo}.png`}
                 width="100"
                 height="60"
+                alt={logo}
                 className="h-7 sm:h-10 w-auto ease-linear duration-300 grayscale group-hover:!grayscale-0 group-hover:scale-105"
               />
             </div>
